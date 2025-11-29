@@ -4,7 +4,7 @@ Terminal-based C game that involves:
 -  BFS path finding algorithm for enemy AI.
 
 Controls:
--  Type one of the four direction letters "WASD" in the terminal then press enter to register the input.
+-  move the character "P" using WASD.
 
 Goal:
 -  Activate all the switches "o" then reach the exit "+" to win.
