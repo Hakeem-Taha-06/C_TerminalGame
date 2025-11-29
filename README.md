@@ -17,6 +17,6 @@ How to run:
 git clone https://github.com/Hakeem-Taha-06/C_TerminalGame
 
 ```
--  run the code in an IDE.
+-  run the app.
 -  type the level file name from the existing files (OR MAKE YOUR OWN, it's really simple).
 -  press enter.
