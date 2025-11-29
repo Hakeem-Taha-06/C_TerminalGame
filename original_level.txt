@@ -1,0 +1,23 @@
+MAP 14 12
+############
+#o#  ##  #o#
+# V      V #
+#          #
+#          #
+#>         #
+           #
+P          +
+           #
+#         <#
+#          #
+#    ^^    #
+#o#  ##  #o#
+############
+SWITCH 0 4
+PLAYER 0 7
+ENEMY v 2 2 down 2 2 2 11
+ENEMY v 9 2 down 9 2 9 11
+ENEMY > 1 5 right 1 5 10 5
+ENEMY < 10 9 left 10 9 1 9
+ENEMY ^ 5 11 up 5 11 5 2  
+ENEMY ^ 6 11 up 6 11 6 2   
